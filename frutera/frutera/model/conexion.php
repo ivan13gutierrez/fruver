@@ -4,7 +4,7 @@ class conexion {
 
     private $servidor="bonwlcyqbd7dqiuhn8dq-mysql.services.clever-cloud.com";
     private $usuario="utghdeypgnhfvmlu";
-    private $contrasenia="utghdeypgnhfvmlu";
+    private $contrasenia="rl47pTlCUErzA51R7ZZK";
     private $conexion;
 
     public function __construct() {
