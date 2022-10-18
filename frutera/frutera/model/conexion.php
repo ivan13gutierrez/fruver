@@ -2,9 +2,9 @@
 
 class conexion {
 
-    private $servidor="localhost";
-    private $usuario="root";
-    private $contrasenia="";
+    private $servidor="bonwlcyqbd7dqiuhn8dq-mysql.services.clever-cloud.com";
+    private $usuario="utghdeypgnhfvmlu";
+    private $contrasenia="utghdeypgnhfvmlu";
     private $conexion;
 
     public function __construct() {
